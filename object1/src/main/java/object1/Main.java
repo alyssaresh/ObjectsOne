@@ -37,8 +37,7 @@ public class Main {
 
         Person person2 = people[3];
         System.out.println(person2.name);
-        System.out.println(people[4].name);
-
+        System.out.println(people[2].name);
     }
 
 }
