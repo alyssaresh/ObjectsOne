@@ -25,7 +25,7 @@ public class Main {
 
         Person ppl1 = new Person("Aub", 25, 200);
         Person ppl2 = new Person("Dash", 30, 188);
-        Person ppl3 = new Person("Kevin", 28, 210);
+        Person ppl3 = new Person("Deepti", 28, 210);
         Person ppl4 = new Person("Becca", 29, 180);
         Person ppl5 = new Person("Kenz", 30, 200);
 
